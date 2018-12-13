@@ -7,5 +7,5 @@ html>head>meta[charset=utf-8]+link+title{Azimut-Travel diaries}^body>div[id=main
 </pre></code>
   
   <p> <b>Step 2: <b></p>
-  Replace <pre><code>div id="header"</pre></code> with <pre><code>header</pre></code> and update the closing tag as well.
+  Replace <pre><code>div id="header"</pre></code> with <pre><code>header</pre></code> and update the <pre><code>header</pre></code> closing tag as well.
     
