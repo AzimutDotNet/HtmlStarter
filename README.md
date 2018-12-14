@@ -7,7 +7,7 @@
 5. Open Visual Studio Code with the command <pre><code>code . </pre></code> and you are good to go.
 6. Next use Visual studio to commit and push
 7. If you want to do it with command line/ #bash you need to do 
-<pre><code>git commit -a </pre></code>(this will save all the changed files, otherwise you will need to use git add "file_name") Press ESC to jump from EDIT mode to INSERT mode and type <pre><code>:xa </pre></code>to save and exit. Next to publish changes type <pre><code>git push</pre></code> 
+<pre><code>git commit -a </pre></code>(this will save all the changed files, otherwise you will need to use git add "file_name")<pre><code> give a representative name to this commit</pre></code> Press ESC to jump from EDIT mode to INSERT mode and type <pre><code>:xa </pre></code>to save and exit. Next to publish changes type <pre><code>git push</pre></code> 
 
 <strong>Below we have the emmet syntax to generate a html page that we will use in our next lesson.</strong>
 
