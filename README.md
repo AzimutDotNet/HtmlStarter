@@ -5,8 +5,7 @@
 3. Step into the newly created folder <pre><code> cd HtmlStarter </pre></code>
 4. Run the following command <pre><code> git checkout -b users/your_name/initial or any name </pre></code>
 5. Open Visual Studio Code with the command <pre><code>code . </pre></code> and you are good to go.
-6. Next command to stage your changes <pre><code>git add .</pre></code>
-7. Next command to syncronize local with origin <pre><code>git commit</pre></code>
+6. Next use Visual studio to commit and push
 
 <strong>Below we have the emmet syntax to generate a html page that we will use in our next lesson.</strong>
 
