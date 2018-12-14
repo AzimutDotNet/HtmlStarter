@@ -1,5 +1,5 @@
 # HtmlStarter
-# How to get start
+# How to get started
 1. Open a command line in the folder where you want to place the new project
 2. Run the following syntax  <pre><code>git clone https://github.com/AzimutDotNet/HtmlStarter.git </pre></code>
 3. Step into the newly created folder <pre><code> cd HtmlStarter </pre></code>
