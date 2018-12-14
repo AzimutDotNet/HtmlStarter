@@ -1,4 +1,13 @@
 # HtmlStarter
+# How to get start
+1. Open a command line in the folder where you want to place the new project
+2. Run the following syntax  <pre><code>git clone https://github.com/AzimutDotNet/HtmlStarter.git </pre></code>
+3. Step into the newly created folder <pre><code> cd HtmlStarter </pre></code>
+4. Run the following command <pre><code> git checkout -b users/your_name/initial or any name </pre></code>
+5. Open Visual Studio Code with the command <pre><code>code . </pre></code> and you are good to go.
+6. Next command to stage your changes <pre><code>git add .</pre></code>
+7. Next command to syncronize local with origin <pre><code>git commit</pre></code>
+
 <strong>Below we have the emmet syntax to generate a html page that we will use in our next lesson.</strong>
 
 <p><b>Step 1: <b></p>
