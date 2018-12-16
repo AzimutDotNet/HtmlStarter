@@ -1,0 +1,46 @@
+td,tr
+{border: 1px solid black;
+ padding-left:3px;
+ padding-right:3px;
+ }
+table {
+    border-collapse: collapse;}
+  /* collapse face borderul tabelului */
+
+ h2 
+  {font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-size: 21px;}
+h3
+{font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-size: 19px;}
+
+h4 
+  {font-family: Arial, Helvetica, sans-serif, Helvetica;
+font-size: 16px;
+padding-left:40px;}
+/* https://websemantics.uk/articles/font-size-conversion/ pentru conversia din pct in px */
+.right {
+    position: absolute;
+    right: 0px;
+    width: 500px;
+    padding: 10px;
+  }
+  .left
+  {
+   padding-left:40px;
+   width:800px;
+  }
+  .leftbody
+  {
+   padding-left:40px;
+   width:800px;
+  }
+  .center
+  { position: absolute;
+    padding-left:200px;
+    padding-top:15px;
+    width:800px;
+   }
+body  {
+   background-image: url("./img/roman.jpg");
+  }
