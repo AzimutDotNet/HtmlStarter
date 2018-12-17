@@ -1,0 +1,31 @@
+body{background-color: yellow}
+h2 {
+    font-size: 49px;
+    color: blue;
+}
+#main_wrapper{
+    width: 900px;
+    margin: auto;
+}
+.red_button {
+    color: red
+}
+/* this is a comment */
+div[name]{
+color: brown
+}
+div>ul>
+li:nth-child(odd){ color: yellowgreen}
+div#last_div>ul>li:last-child{
+    color: tomato;
+font-size: 59px;}
+div#last_div{
+    width: 200x;
+    margin: 20px;
+    padding: 10p;
+   font-size: 15px;
+    border: 2px solid #000000;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
