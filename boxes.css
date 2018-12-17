@@ -1,0 +1,30 @@
+#parentbox{
+    display: flex;
+    width: 400px;
+    height: 800px;
+    flex-direction: column;
+    flex-wrap:wrap;
+}
+#box-1{    
+    flex: 1;
+    border: solid 2px blueviolet;
+    box-shadow: rgb(150, 150, 150) 5px 5px
+}
+#box-2{
+    flex: 1;
+}
+#box-3{
+    flex:2;
+    border: 6px solid royalblue;
+    border-radius: 20px/10px
+}
+#box-4{
+    flex:1;
+}
+#box-5{
+    flex:-2;
+    order: -4
+}
+#box-6{
+    flex:6
+}
