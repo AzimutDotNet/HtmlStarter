@@ -4,6 +4,7 @@ body{
 h2 {            
     font-size:  49px;
     color: red;
+    background-color: aqua
 }
 #main_wrapper{
     width: 900px;
@@ -12,4 +13,3 @@ h2 {
 .red_button{
     color: blue
 }
- /* this is a comment */
