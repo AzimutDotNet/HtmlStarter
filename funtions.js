@@ -5,9 +5,9 @@ function exercisejavascript() {
 
   do{
       initialnumber++;
-      myArray.push(1);
+      myArray.push(initialnumber);
   }
-  while (initialnumber ==0);
+  while (initialnumber <=10);
 return myString + myArray;
 }
 console.log(exercisejavascript());
